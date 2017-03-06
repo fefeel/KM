@@ -1,10 +1,15 @@
+# Magento Front End Developer
+
+  To know and deep understand on Magento frontend structure
+
+
 ## Note.
 
     This section followed on Magento CE 1.9.3
     
 
 
-## Basic Knowledge
+## Base Knowledge
 
   - [x] CSS3
   - [x] SASS
