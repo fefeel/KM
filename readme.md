@@ -7,3 +7,5 @@
     
 ### Why Magento?
    Cause of my job that push me code on it everyday. But it's cool, quite strong e-commerce platform and most popular on Google trend result.  
+   [https://trends.google.com/trends/explore?q=magento,prestashop,woocommerce,opencart,osCommerce](https://trends.google.com/trends/explore?q=magento,prestashop,woocommerce,opencart,osCommerce)
+   
