@@ -1,14 +1,14 @@
 # Rendering
 
 
-## Themes in Magento
+### Themes in Magento
 
   - [ ] Define and describe the use of themes in Magento
   - [ ] Define and describe the use of design packages
   - [ ] Describe the process of defining template file paths
 
 
-## Blocks
+### Blocks
 
   - [ ] Describe the programmatic structure of blocks
   - [ ] Describe the relationship between templates and blocks
@@ -20,7 +20,7 @@
   - [ ] Describe how a typical block is rendered
 
 
-## Design layout, XML schema, and CMS content directives
+### Design layout, XML schema, and CMS content directives
 
   - [ ] Describe the elements of Magento's layout XML schema, including the major layout directives
   - [ ] Register layout XML files
@@ -30,10 +30,10 @@
 
     
 
-## General References for this section
+### General References for this section
 
-	    Mage_Core_Model_Layout
-		Mage_Core_Model_Layout_Update
-		Mage_Core_Model_Design
-		Mage_Core_Model_Design_Package
-		Mage_Core_Controller_Varien_Action
+	Mage_Core_Model_Layout
+	Mage_Core_Model_Layout_Update
+	Mage_Core_Model_Design
+	Mage_Core_Model_Design_Package
+	Mage_Core_Controller_Varien_Action

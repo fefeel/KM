@@ -1,7 +1,7 @@
 # Basics
 
 
-## High-level Magento architecture
+### High-level Magento architecture
 
   - [x] Describe Magento codepools
   - [x] Describe typical Magento module structure
@@ -12,7 +12,7 @@
   - [x] Describe methods for resolving module conflicts.
 
 
-## Magento configuration
+### Magento configuration
 
   - [x] Explain how Magento loads and manipulates configuration information
   - [x] Describe class group configuration and use in factory methods
@@ -23,7 +23,7 @@
   - [x] Set up a cron job
 
 
-## Internationalization
+### Internationalization
 
   - [x] Describe how to plan for internationalization of a Magento site
   - [x] Describe the use of Magento translate classes and translate files
