@@ -11,6 +11,7 @@
   - [x] Explain class naming conventions and their relationship with the autoloader
   - [x] Describe methods for resolving module conflicts.
 
+    
 
 ### Magento configuration
 
@@ -22,10 +23,25 @@
 *_load_after, etc.
   - [x] Set up a cron job
 
+    
 
 ### Internationalization
 
   - [x] Describe how to plan for internationalization of a Magento site
   - [x] Describe the use of Magento translate classes and translate files
   - [x] Describe the advantages and disadvantages of using subdomains and subdirectories in internationalization
+
+    
+
+### Code References for this section
+
+	Mage_Core_Model_App
+	Mage_Core_Model_Config
+	Mage_Core_Model_Resource_Db_Collection_Abstract
+	Varien_Autoload
+	Mage_Core_Model_App_Area
+	Mage_Core_Model_Store
+    Varien_Event_Observer
+    Mage_Core_Model_Translate::init()
+    Mage_Core_Model_Locale::emulate()
     

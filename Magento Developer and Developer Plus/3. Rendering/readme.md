@@ -7,6 +7,7 @@
   - [ ] Define and describe the use of design packages
   - [ ] Describe the process of defining template file paths
 
+    
 
 ### Blocks
 
@@ -19,6 +20,7 @@
   - [ ] Explain different mechanisms for disabling block output
   - [ ] Describe how a typical block is rendered
 
+    
 
 ### Design layout, XML schema, and CMS content directives
 
@@ -30,7 +32,7 @@
 
     
 
-### General References for this section
+### Code References for this section
 
 	Mage_Core_Model_Layout
 	Mage_Core_Model_Layout_Update
